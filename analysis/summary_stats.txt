@@ -1,0 +1,29 @@
+Total records: 1000
+Countries: 117
+Years: 1995-2021 (27 years)
+Debt types: {'government': 335, 'personal': 317, 'corporate': 348}
+Debt reasons: {'infrastructure development': 348, 'education funding': 319, 'healthcare improvement': 333}
+Debt status: {'current': 338, 'overdue': 351, 'paid off': 311}
+
+Top 15 countries by record volume:
+- China: 190
+- Indonesia: 107
+- Philippines: 54
+- Russia: 51
+- Portugal: 47
+- Poland: 39
+- Brazil: 38
+- United States: 32
+- France: 24
+- Japan: 23
+- Sweden: 20
+- Argentina: 18
+- Peru: 18
+- Czech Republic: 16
+- Greece: 15
+
+Debt burden groups (country count by quartile):
+- Low: 39
+- Moderate: 28
+- High: 24
+- Very High: 26

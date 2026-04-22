@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<style>
+.title { font: bold 20px sans-serif; fill: #1f2937; }
+.label { font: 12px sans-serif; fill: #374151; }
+.small { font: 11px sans-serif; fill: #6b7280; }
+.axis { stroke: #9ca3af; stroke-width: 1; }
+.grid { stroke: #e5e7eb; stroke-width: 1; }
+</style>
+<text x="30" y="35" class="title">Top 15 Countries by Debt Record Volume</text>
+<text x="30" y="58" class="small">Proxy for debt burden: number of debt records per country (dataset has no numeric amounts).</text>
+<line x1="280" y1="90" x2="280" y2="600" class="axis" />
+<rect x="280" y="96.12" width="770.00" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="111.35" text-anchor="end" class="label">China</text>
+<text x="1058.00" y="111.35" class="label">190</text>
+<rect x="280" y="130.12" width="433.63" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="145.35" text-anchor="end" class="label">Indonesia</text>
+<text x="721.63" y="145.35" class="label">107</text>
+<rect x="280" y="164.12" width="218.84" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="179.35" text-anchor="end" class="label">Philippines</text>
+<text x="506.84" y="179.35" class="label">54</text>
+<rect x="280" y="198.12" width="206.68" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="213.35" text-anchor="end" class="label">Russia</text>
+<text x="494.68" y="213.35" class="label">51</text>
+<rect x="280" y="232.12" width="190.47" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="247.35" text-anchor="end" class="label">Portugal</text>
+<text x="478.47" y="247.35" class="label">47</text>
+<rect x="280" y="266.12" width="158.05" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="281.35" text-anchor="end" class="label">Poland</text>
+<text x="446.05" y="281.35" class="label">39</text>
+<rect x="280" y="300.12" width="154.00" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="315.35" text-anchor="end" class="label">Brazil</text>
+<text x="442.00" y="315.35" class="label">38</text>
+<rect x="280" y="334.12" width="129.68" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="349.35" text-anchor="end" class="label">United States</text>
+<text x="417.68" y="349.35" class="label">32</text>
+<rect x="280" y="368.12" width="97.26" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="383.35" text-anchor="end" class="label">France</text>
+<text x="385.26" y="383.35" class="label">24</text>
+<rect x="280" y="402.12" width="93.21" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="417.35" text-anchor="end" class="label">Japan</text>
+<text x="381.21" y="417.35" class="label">23</text>
+<rect x="280" y="436.12" width="81.05" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="451.35" text-anchor="end" class="label">Sweden</text>
+<text x="369.05" y="451.35" class="label">20</text>
+<rect x="280" y="470.12" width="72.95" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="485.35" text-anchor="end" class="label">Argentina</text>
+<text x="360.95" y="485.35" class="label">18</text>
+<rect x="280" y="504.12" width="72.95" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="519.35" text-anchor="end" class="label">Peru</text>
+<text x="360.95" y="519.35" class="label">18</text>
+<rect x="280" y="538.12" width="64.84" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="553.35" text-anchor="end" class="label">Czech Republic</text>
+<text x="352.84" y="553.35" class="label">16</text>
+<rect x="280" y="572.12" width="60.79" height="21.76" fill="#1d4ed8" rx="3" />
+<text x="270" y="587.35" text-anchor="end" class="label">Greece</text>
+<text x="348.79" y="587.35" class="label">15</text>
+<line x1="280.00" y1="90" x2="280.00" y2="600" class="grid" />
+<text x="280.00" y="630" text-anchor="middle" class="small">0</text>
+<line x1="434.00" y1="90" x2="434.00" y2="600" class="grid" />
+<text x="434.00" y="630" text-anchor="middle" class="small">38</text>
+<line x1="588.00" y1="90" x2="588.00" y2="600" class="grid" />
+<text x="588.00" y="630" text-anchor="middle" class="small">76</text>
+<line x1="742.00" y1="90" x2="742.00" y2="600" class="grid" />
+<text x="742.00" y="630" text-anchor="middle" class="small">114</text>
+<line x1="896.00" y1="90" x2="896.00" y2="600" class="grid" />
+<text x="896.00" y="630" text-anchor="middle" class="small">152</text>
+<line x1="1050.00" y1="90" x2="1050.00" y2="600" class="grid" />
+<text x="1050.00" y="630" text-anchor="middle" class="small">190</text>
+</svg>
