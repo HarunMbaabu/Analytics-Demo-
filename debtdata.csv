@@ -1,0 +1,1001 @@
+country,year,debt_amount,debt_type,debt_reason,debt_status
+France,2013,Euro,government,infrastructure development,current
+Indonesia,2012,Rupiah,personal,education funding,overdue
+Indonesia,2002,Rupiah,personal,education funding,overdue
+Egypt,2003,Pound,government,infrastructure development,overdue
+Indonesia,2010,Rupiah,government,infrastructure development,overdue
+China,2006,Yuan Renminbi,personal,education funding,current
+Philippines,2002,Peso,government,education funding,current
+France,2018,Euro,corporate,infrastructure development,current
+Germany,2002,Euro,corporate,healthcare improvement,overdue
+Canada,2002,Dollar,government,infrastructure development,current
+Japan,2017,Yen,government,healthcare improvement,overdue
+Indonesia,2006,Rupiah,corporate,healthcare improvement,overdue
+China,2006,Yuan Renminbi,personal,infrastructure development,current
+Canada,2015,Dollar,personal,infrastructure development,paid off
+China,2018,Yuan Renminbi,government,healthcare improvement,overdue
+China,2004,Yuan Renminbi,corporate,healthcare improvement,paid off
+Belarus,2003,Ruble,government,healthcare improvement,paid off
+China,2020,Yuan Renminbi,corporate,healthcare improvement,current
+Indonesia,2000,Rupiah,personal,education funding,overdue
+Madagascar,2021,Ariary,government,infrastructure development,current
+Honduras,2020,Lempira,government,education funding,paid off
+Russia,2019,Ruble,government,healthcare improvement,current
+Russia,2010,Ruble,corporate,healthcare improvement,paid off
+Czech Republic,2004,Koruna,government,education funding,paid off
+Argentina,2012,Peso,government,healthcare improvement,paid off
+Indonesia,2006,Rupiah,corporate,infrastructure development,overdue
+Philippines,2009,Peso,corporate,healthcare improvement,overdue
+Brazil,1999,Real,corporate,infrastructure development,current
+China,2001,Yuan Renminbi,corporate,education funding,current
+Portugal,2019,Euro,government,infrastructure development,current
+China,2010,Yuan Renminbi,corporate,education funding,paid off
+China,2017,Yuan Renminbi,government,healthcare improvement,current
+China,2016,Yuan Renminbi,corporate,infrastructure development,paid off
+China,2007,Yuan Renminbi,government,infrastructure development,paid off
+Philippines,2015,Peso,personal,education funding,overdue
+China,2008,Yuan Renminbi,personal,education funding,overdue
+China,2017,Yuan Renminbi,corporate,healthcare improvement,overdue
+Ukraine,2001,Hryvnia,corporate,infrastructure development,current
+Greece,2007,Euro,personal,education funding,overdue
+Canada,2014,Dollar,personal,infrastructure development,paid off
+Albania,1998,Lek,corporate,healthcare improvement,overdue
+Brazil,2018,Real,government,education funding,current
+Indonesia,2015,Rupiah,corporate,healthcare improvement,paid off
+China,2003,Yuan Renminbi,government,education funding,overdue
+China,1999,Yuan Renminbi,corporate,healthcare improvement,overdue
+Afghanistan,2000,Afghani,government,education funding,current
+China,2021,Yuan Renminbi,government,education funding,current
+Poland,2020,Zloty,government,education funding,current
+Indonesia,2001,Rupiah,corporate,education funding,overdue
+Slovenia,1996,Euro,government,healthcare improvement,current
+Japan,2002,Yen,corporate,education funding,overdue
+Pakistan,2010,Rupee,personal,education funding,current
+United States,1997,Dollar,government,infrastructure development,paid off
+Russia,2010,Ruble,personal,education funding,current
+Philippines,2021,Peso,government,education funding,paid off
+Indonesia,2005,Rupiah,corporate,education funding,overdue
+Malawi,2006,Kwacha,corporate,education funding,overdue
+Norway,1998,Krone,government,education funding,paid off
+China,2018,Yuan Renminbi,personal,education funding,paid off
+China,2020,Yuan Renminbi,corporate,infrastructure development,overdue
+Canada,2001,Dollar,government,education funding,overdue
+China,1996,Yuan Renminbi,personal,education funding,paid off
+Japan,2009,Yen,personal,healthcare improvement,paid off
+Mayotte,1996,Euro,government,education funding,overdue
+Czech Republic,2018,Koruna,government,healthcare improvement,paid off
+Tanzania,1995,Shilling,corporate,education funding,overdue
+Myanmar,1997,Kyat,government,healthcare improvement,overdue
+Sweden,2011,Krona,government,healthcare improvement,overdue
+United States,2012,Dollar,corporate,infrastructure development,paid off
+China,2004,Yuan Renminbi,corporate,healthcare improvement,current
+Indonesia,1995,Rupiah,personal,infrastructure development,overdue
+Thailand,2018,Baht,government,education funding,overdue
+Thailand,2017,Baht,personal,education funding,paid off
+Indonesia,2013,Rupiah,corporate,healthcare improvement,overdue
+Albania,2018,Lek,corporate,education funding,overdue
+Mali,1995,Franc,corporate,education funding,overdue
+Poland,2002,Zloty,corporate,infrastructure development,paid off
+China,1995,Yuan Renminbi,government,healthcare improvement,paid off
+Russia,2018,Ruble,personal,infrastructure development,current
+Russia,2003,Ruble,government,infrastructure development,current
+China,1995,Yuan Renminbi,corporate,education funding,paid off
+Portugal,2004,Euro,corporate,infrastructure development,overdue
+Indonesia,2007,Rupiah,government,infrastructure development,paid off
+Ukraine,2011,Hryvnia,government,education funding,current
+China,2010,Yuan Renminbi,corporate,infrastructure development,overdue
+France,2010,Euro,government,healthcare improvement,paid off
+Indonesia,2020,Rupiah,corporate,education funding,paid off
+Colombia,1996,Peso,corporate,infrastructure development,paid off
+Nepal,2008,Rupee,government,healthcare improvement,paid off
+Japan,2015,Yen,government,education funding,current
+Nepal,2005,Rupee,personal,healthcare improvement,paid off
+United States,2000,Dollar,corporate,infrastructure development,overdue
+Brazil,2014,Real,government,infrastructure development,current
+Sweden,2006,Krona,corporate,healthcare improvement,overdue
+Mexico,2001,Peso,government,healthcare improvement,current
+Poland,1997,Zloty,personal,infrastructure development,current
+Indonesia,2006,Rupiah,government,education funding,paid off
+Dominican Republic,2013,Peso,corporate,healthcare improvement,overdue
+Poland,2018,Zloty,personal,healthcare improvement,paid off
+Philippines,2005,Peso,government,education funding,paid off
+New Caledonia,2017,Franc,corporate,education funding,overdue
+Indonesia,2014,Rupiah,corporate,infrastructure development,current
+Indonesia,2008,Rupiah,personal,education funding,overdue
+Portugal,2016,Euro,government,healthcare improvement,paid off
+Greece,2005,Euro,government,infrastructure development,overdue
+United Kingdom,2004,Pound,government,healthcare improvement,current
+Russia,2012,Ruble,corporate,infrastructure development,paid off
+Ivory Coast,1998,Franc,government,healthcare improvement,paid off
+Angola,1995,Kwanza,personal,infrastructure development,paid off
+Palestinian Territory,1998,Shekel,government,education funding,overdue
+Indonesia,2012,Rupiah,government,infrastructure development,current
+Venezuela,2019,Bolivar,corporate,healthcare improvement,current
+Thailand,2001,Baht,corporate,education funding,overdue
+Serbia,2003,Dinar,corporate,healthcare improvement,paid off
+Philippines,2000,Peso,government,healthcare improvement,current
+South Africa,2003,Rand,corporate,education funding,current
+Russia,2000,Ruble,corporate,healthcare improvement,overdue
+Brazil,2010,Real,government,healthcare improvement,current
+Colombia,1997,Peso,personal,education funding,current
+Brazil,2003,Real,personal,infrastructure development,current
+Honduras,2008,Lempira,personal,infrastructure development,paid off
+Philippines,1995,Peso,corporate,education funding,current
+Brazil,2014,Real,government,education funding,overdue
+China,2012,Yuan Renminbi,corporate,healthcare improvement,paid off
+Japan,1998,Yen,personal,healthcare improvement,current
+Indonesia,2020,Rupiah,personal,healthcare improvement,current
+Brazil,2017,Real,corporate,healthcare improvement,current
+Czech Republic,2015,Koruna,government,education funding,current
+China,2019,Yuan Renminbi,personal,education funding,paid off
+Philippines,2014,Peso,personal,infrastructure development,paid off
+Costa Rica,2014,Colon,corporate,education funding,overdue
+China,2007,Yuan Renminbi,government,infrastructure development,current
+China,2013,Yuan Renminbi,government,infrastructure development,overdue
+Russia,2018,Ruble,personal,education funding,overdue
+China,2006,Yuan Renminbi,corporate,healthcare improvement,current
+Greece,1998,Euro,personal,education funding,overdue
+China,2007,Yuan Renminbi,corporate,education funding,current
+Greece,2011,Euro,government,healthcare improvement,overdue
+China,2013,Yuan Renminbi,government,infrastructure development,paid off
+Philippines,1999,Peso,personal,infrastructure development,paid off
+Japan,2016,Yen,corporate,infrastructure development,overdue
+Iran,2010,Rial,government,education funding,overdue
+Nigeria,2009,Naira,corporate,infrastructure development,paid off
+Ireland,1999,Euro,personal,healthcare improvement,current
+Finland,1998,Euro,personal,healthcare improvement,current
+Sweden,2008,Krona,corporate,education funding,current
+Sweden,1997,Krona,corporate,healthcare improvement,overdue
+Philippines,2020,Peso,government,infrastructure development,current
+Croatia,1995,Kuna,personal,infrastructure development,overdue
+China,2021,Yuan Renminbi,personal,healthcare improvement,paid off
+Brazil,2011,Real,government,healthcare improvement,overdue
+Ukraine,2000,Hryvnia,corporate,education funding,overdue
+Panama,2016,Balboa,corporate,healthcare improvement,overdue
+Ivory Coast,2013,Franc,corporate,infrastructure development,overdue
+China,2002,Yuan Renminbi,corporate,healthcare improvement,current
+Cuba,2012,Peso,government,infrastructure development,paid off
+Czech Republic,2002,Koruna,government,healthcare improvement,overdue
+Russia,2017,Ruble,government,healthcare improvement,current
+Poland,1997,Zloty,government,infrastructure development,current
+China,2017,Yuan Renminbi,government,infrastructure development,overdue
+China,2021,Yuan Renminbi,corporate,education funding,overdue
+Indonesia,1996,Rupiah,personal,infrastructure development,current
+Uganda,1999,Shilling,corporate,education funding,paid off
+China,2004,Yuan Renminbi,personal,healthcare improvement,current
+Sweden,2021,Krona,government,education funding,overdue
+Indonesia,2007,Rupiah,corporate,infrastructure development,overdue
+Philippines,1998,Peso,personal,infrastructure development,current
+Poland,2017,Zloty,government,healthcare improvement,overdue
+Ethiopia,2020,Birr,corporate,infrastructure development,paid off
+Poland,2020,Zloty,government,education funding,overdue
+Portugal,2018,Euro,government,healthcare improvement,paid off
+Ecuador,2020,Dollar,government,healthcare improvement,current
+Indonesia,2000,Rupiah,corporate,education funding,overdue
+China,2000,Yuan Renminbi,corporate,education funding,overdue
+Honduras,2001,Lempira,government,education funding,paid off
+Japan,2007,Yen,government,education funding,paid off
+Philippines,2002,Peso,corporate,education funding,current
+Japan,1996,Yen,corporate,healthcare improvement,current
+Japan,2005,Yen,government,infrastructure development,overdue
+Poland,2010,Zloty,corporate,infrastructure development,paid off
+Indonesia,2006,Rupiah,personal,infrastructure development,paid off
+Brazil,1997,Real,government,healthcare improvement,current
+United States,2017,Dollar,government,infrastructure development,overdue
+Portugal,2000,Euro,personal,healthcare improvement,overdue
+Argentina,2007,Peso,government,infrastructure development,current
+Canada,2016,Dollar,corporate,healthcare improvement,paid off
+Brazil,2000,Real,personal,education funding,paid off
+Chile,2020,Peso,corporate,education funding,paid off
+China,2010,Yuan Renminbi,corporate,infrastructure development,paid off
+Indonesia,2011,Rupiah,government,infrastructure development,overdue
+Philippines,2009,Peso,corporate,healthcare improvement,current
+Serbia,1999,Dinar,personal,healthcare improvement,paid off
+France,2019,Euro,corporate,healthcare improvement,current
+Portugal,2002,Euro,government,healthcare improvement,overdue
+China,2004,Yuan Renminbi,personal,healthcare improvement,paid off
+Portugal,2008,Euro,corporate,education funding,overdue
+China,1996,Yuan Renminbi,government,infrastructure development,paid off
+Norway,2003,Krone,personal,education funding,current
+Russia,2007,Ruble,corporate,education funding,overdue
+Bangladesh,2003,Taka,corporate,infrastructure development,overdue
+Nigeria,1995,Naira,corporate,healthcare improvement,paid off
+Guatemala,2002,Quetzal,personal,infrastructure development,overdue
+Ukraine,2008,Hryvnia,government,education funding,overdue
+China,2016,Yuan Renminbi,corporate,healthcare improvement,current
+Kosovo,2000,Euro,government,infrastructure development,overdue
+China,1997,Yuan Renminbi,government,healthcare improvement,overdue
+Indonesia,2020,Rupiah,personal,infrastructure development,current
+Russia,2000,Ruble,personal,infrastructure development,overdue
+Bosnia and Herzegovina,2006,Marka,corporate,infrastructure development,current
+France,1997,Euro,corporate,infrastructure development,overdue
+Guadeloupe,2005,Euro,government,infrastructure development,paid off
+Indonesia,2013,Rupiah,corporate,infrastructure development,overdue
+China,2014,Yuan Renminbi,government,healthcare improvement,paid off
+Portugal,1997,Euro,corporate,infrastructure development,paid off
+China,2019,Yuan Renminbi,government,education funding,current
+Philippines,2010,Peso,government,healthcare improvement,overdue
+Brazil,2017,Real,personal,healthcare improvement,current
+Japan,1998,Yen,corporate,infrastructure development,overdue
+Indonesia,1996,Rupiah,corporate,education funding,paid off
+Malaysia,2000,Ringgit,personal,infrastructure development,current
+Laos,2010,Kip,personal,healthcare improvement,paid off
+Belarus,2019,Ruble,government,healthcare improvement,current
+Sweden,2011,Krona,personal,education funding,overdue
+Peru,2009,Sol,personal,education funding,paid off
+China,2001,Yuan Renminbi,government,infrastructure development,overdue
+Indonesia,2005,Rupiah,government,education funding,paid off
+China,2005,Yuan Renminbi,government,healthcare improvement,paid off
+China,2018,Yuan Renminbi,government,healthcare improvement,paid off
+China,2019,Yuan Renminbi,personal,infrastructure development,paid off
+Indonesia,2001,Rupiah,personal,healthcare improvement,paid off
+Greece,2016,Euro,corporate,education funding,paid off
+Portugal,1997,Euro,government,education funding,paid off
+Portugal,1996,Euro,personal,infrastructure development,current
+Indonesia,2021,Rupiah,personal,healthcare improvement,current
+Indonesia,2015,Rupiah,government,education funding,current
+Indonesia,2005,Rupiah,corporate,healthcare improvement,paid off
+Ukraine,2002,Hryvnia,government,healthcare improvement,current
+China,1995,Yuan Renminbi,corporate,infrastructure development,overdue
+Philippines,2012,Peso,personal,infrastructure development,current
+China,2004,Yuan Renminbi,personal,education funding,paid off
+China,2020,Yuan Renminbi,corporate,education funding,overdue
+Portugal,2005,Euro,government,education funding,paid off
+China,2021,Yuan Renminbi,personal,education funding,paid off
+China,2015,Yuan Renminbi,government,infrastructure development,paid off
+China,2001,Yuan Renminbi,personal,infrastructure development,overdue
+Indonesia,2016,Rupiah,corporate,education funding,current
+Indonesia,2008,Rupiah,personal,healthcare improvement,paid off
+China,2004,Yuan Renminbi,personal,infrastructure development,paid off
+Argentina,1995,Peso,personal,infrastructure development,paid off
+Portugal,2017,Euro,corporate,infrastructure development,current
+Canada,2009,Dollar,personal,infrastructure development,current
+Azerbaijan,2011,Manat,personal,infrastructure development,overdue
+Cameroon,2003,Franc,government,healthcare improvement,paid off
+Sweden,2005,Krona,corporate,infrastructure development,overdue
+Argentina,2021,Peso,personal,infrastructure development,current
+Honduras,2016,Lempira,personal,education funding,current
+Brazil,2015,Real,personal,infrastructure development,current
+Colombia,2005,Peso,corporate,healthcare improvement,paid off
+France,2013,Euro,personal,infrastructure development,overdue
+Poland,2010,Zloty,personal,education funding,current
+China,2020,Yuan Renminbi,government,healthcare improvement,overdue
+Madagascar,1999,Ariary,corporate,infrastructure development,paid off
+Sri Lanka,2015,Rupee,corporate,healthcare improvement,current
+Slovenia,1999,Euro,government,education funding,current
+Portugal,2015,Euro,corporate,healthcare improvement,current
+Poland,2005,Zloty,personal,healthcare improvement,paid off
+Finland,2019,Euro,personal,infrastructure development,paid off
+Morocco,2001,Dirham,government,healthcare improvement,overdue
+Czech Republic,2002,Koruna,corporate,infrastructure development,current
+Brazil,2018,Real,government,education funding,current
+China,1995,Yuan Renminbi,corporate,healthcare improvement,overdue
+Cuba,2019,Peso,corporate,healthcare improvement,current
+Ukraine,1995,Hryvnia,corporate,healthcare improvement,current
+Netherlands,1996,Euro,government,infrastructure development,overdue
+South Korea,2008,Won,corporate,education funding,overdue
+United Kingdom,1997,Pound,corporate,healthcare improvement,overdue
+Brazil,1996,Real,personal,infrastructure development,paid off
+Palestinian Territory,2020,Shekel,personal,infrastructure development,paid off
+Mexico,2012,Peso,government,healthcare improvement,current
+Portugal,2014,Euro,personal,infrastructure development,overdue
+Albania,2018,Lek,personal,education funding,current
+China,2003,Yuan Renminbi,corporate,infrastructure development,overdue
+Indonesia,2018,Rupiah,corporate,education funding,current
+Greece,2020,Euro,personal,infrastructure development,paid off
+Portugal,2003,Euro,personal,healthcare improvement,current
+Poland,1997,Zloty,personal,infrastructure development,paid off
+Brazil,2010,Real,government,education funding,paid off
+Serbia,2006,Dinar,personal,healthcare improvement,paid off
+Gambia,2001,Dalasi,personal,infrastructure development,paid off
+Nigeria,2019,Naira,corporate,education funding,current
+Philippines,2019,Peso,government,infrastructure development,current
+Thailand,2015,Baht,corporate,healthcare improvement,overdue
+Greece,2000,Euro,corporate,education funding,overdue
+Russia,1999,Ruble,government,education funding,paid off
+Indonesia,1997,Rupiah,personal,education funding,paid off
+China,2014,Yuan Renminbi,government,healthcare improvement,overdue
+China,2015,Yuan Renminbi,corporate,infrastructure development,overdue
+Indonesia,1998,Rupiah,corporate,education funding,overdue
+China,2006,Yuan Renminbi,corporate,infrastructure development,overdue
+Indonesia,1998,Rupiah,government,education funding,current
+Costa Rica,1997,Colon,personal,healthcare improvement,paid off
+China,2011,Yuan Renminbi,personal,infrastructure development,current
+China,2016,Yuan Renminbi,corporate,infrastructure development,paid off
+Kazakhstan,2007,Tenge,personal,education funding,paid off
+Portugal,2004,Euro,personal,healthcare improvement,paid off
+Portugal,1996,Euro,government,education funding,overdue
+Bangladesh,2000,Taka,corporate,education funding,current
+Czech Republic,2017,Koruna,government,education funding,current
+Poland,2021,Zloty,corporate,healthcare improvement,current
+United States,2020,Dollar,government,healthcare improvement,overdue
+Argentina,1999,Peso,government,healthcare improvement,overdue
+Indonesia,1998,Rupiah,corporate,education funding,current
+China,1995,Yuan Renminbi,personal,infrastructure development,overdue
+Mongolia,2020,Tugrik,government,infrastructure development,current
+Peru,2002,Sol,government,education funding,current
+Cameroon,2005,Franc,government,infrastructure development,overdue
+Brazil,2001,Real,personal,infrastructure development,paid off
+Philippines,2015,Peso,government,infrastructure development,paid off
+New Caledonia,2018,Franc,corporate,healthcare improvement,current
+Madagascar,1996,Ariary,corporate,infrastructure development,paid off
+Norway,2019,Krone,personal,healthcare improvement,current
+Indonesia,2013,Rupiah,government,education funding,current
+Estonia,2003,Euro,government,infrastructure development,overdue
+Philippines,2020,Peso,personal,education funding,overdue
+Indonesia,2008,Rupiah,government,education funding,overdue
+Indonesia,2016,Rupiah,personal,infrastructure development,current
+China,2000,Yuan Renminbi,personal,infrastructure development,overdue
+China,2008,Yuan Renminbi,government,education funding,paid off
+China,2002,Yuan Renminbi,government,education funding,overdue
+Russia,1996,Ruble,corporate,education funding,overdue
+Russia,1995,Ruble,government,healthcare improvement,paid off
+Afghanistan,2018,Afghani,personal,healthcare improvement,paid off
+Kazakhstan,2003,Tenge,government,infrastructure development,overdue
+China,2015,Yuan Renminbi,corporate,healthcare improvement,paid off
+China,2005,Yuan Renminbi,government,education funding,paid off
+Tajikistan,2013,Somoni,government,infrastructure development,current
+Belarus,2003,Ruble,personal,infrastructure development,current
+Tajikistan,2014,Somoni,corporate,education funding,current
+Cuba,2018,Peso,personal,healthcare improvement,paid off
+Russia,2020,Ruble,corporate,infrastructure development,current
+China,2019,Yuan Renminbi,corporate,education funding,overdue
+Namibia,2006,Dollar,corporate,infrastructure development,current
+Tanzania,2020,Shilling,corporate,education funding,paid off
+New Zealand,2007,Dollar,personal,infrastructure development,paid off
+Japan,2021,Yen,government,infrastructure development,overdue
+Poland,2000,Zloty,personal,infrastructure development,paid off
+France,2018,Euro,personal,healthcare improvement,current
+Portugal,2021,Euro,corporate,infrastructure development,current
+China,2003,Yuan Renminbi,government,infrastructure development,overdue
+Indonesia,2018,Rupiah,corporate,healthcare improvement,paid off
+China,1995,Yuan Renminbi,government,infrastructure development,overdue
+China,2001,Yuan Renminbi,corporate,infrastructure development,current
+Indonesia,1998,Rupiah,government,infrastructure development,overdue
+Comoros,1998,Franc,corporate,infrastructure development,overdue
+Sweden,2014,Krona,personal,education funding,current
+United States,2021,Dollar,personal,education funding,current
+Greece,2020,Euro,personal,education funding,paid off
+Malaysia,2000,Ringgit,personal,healthcare improvement,overdue
+China,2016,Yuan Renminbi,personal,education funding,current
+Costa Rica,2008,Colon,personal,healthcare improvement,paid off
+Netherlands,2006,Euro,government,healthcare improvement,paid off
+Czech Republic,2002,Koruna,personal,healthcare improvement,paid off
+Nigeria,2016,Naira,personal,education funding,paid off
+China,2013,Yuan Renminbi,personal,healthcare improvement,overdue
+Poland,2004,Zloty,corporate,infrastructure development,current
+Brazil,2019,Real,personal,healthcare improvement,overdue
+Niger,2006,Franc,personal,infrastructure development,paid off
+China,2016,Yuan Renminbi,personal,education funding,paid off
+China,2020,Yuan Renminbi,corporate,infrastructure development,current
+Indonesia,2014,Rupiah,corporate,healthcare improvement,paid off
+Philippines,2018,Peso,corporate,education funding,current
+Czech Republic,2010,Koruna,government,infrastructure development,current
+Brazil,2015,Real,government,infrastructure development,current
+Honduras,1997,Lempira,personal,education funding,overdue
+Niger,2013,Franc,personal,education funding,current
+Jamaica,2020,Dollar,personal,healthcare improvement,paid off
+Portugal,2007,Euro,government,infrastructure development,current
+China,1995,Yuan Renminbi,personal,infrastructure development,current
+Indonesia,2013,Rupiah,corporate,education funding,current
+France,1997,Euro,corporate,infrastructure development,overdue
+Colombia,2006,Peso,government,education funding,overdue
+United States,2013,Dollar,corporate,infrastructure development,current
+Ukraine,1996,Hryvnia,corporate,infrastructure development,overdue
+Russia,2021,Ruble,corporate,education funding,overdue
+Russia,2014,Ruble,personal,infrastructure development,current
+Indonesia,2012,Rupiah,corporate,healthcare improvement,overdue
+Indonesia,1996,Rupiah,government,healthcare improvement,current
+China,2004,Yuan Renminbi,corporate,education funding,current
+China,2020,Yuan Renminbi,corporate,education funding,paid off
+Russia,2011,Ruble,corporate,infrastructure development,paid off
+Brazil,2003,Real,government,healthcare improvement,paid off
+China,2013,Yuan Renminbi,personal,healthcare improvement,overdue
+Argentina,2008,Peso,government,infrastructure development,overdue
+Poland,2000,Zloty,personal,healthcare improvement,paid off
+China,2005,Yuan Renminbi,personal,education funding,current
+Indonesia,2012,Rupiah,personal,education funding,current
+Greece,2000,Euro,personal,infrastructure development,current
+United States,1995,Dollar,personal,healthcare improvement,paid off
+Portugal,2004,Euro,corporate,healthcare improvement,current
+United States,2015,Dollar,corporate,education funding,current
+Iran,2001,Rial,corporate,infrastructure development,current
+Uganda,2017,Shilling,government,healthcare improvement,paid off
+Japan,2001,Yen,government,infrastructure development,current
+Cameroon,2006,Franc,corporate,infrastructure development,overdue
+China,2017,Yuan Renminbi,personal,education funding,overdue
+Philippines,1995,Peso,personal,education funding,current
+United States,2020,Dollar,government,healthcare improvement,paid off
+Poland,2006,Zloty,personal,education funding,paid off
+Philippines,2013,Peso,personal,infrastructure development,overdue
+Brazil,2009,Real,personal,education funding,overdue
+Indonesia,2005,Rupiah,personal,healthcare improvement,paid off
+Poland,2016,Zloty,corporate,healthcare improvement,current
+Canada,2018,Dollar,personal,infrastructure development,current
+Vietnam,1997,Dong,personal,infrastructure development,overdue
+China,2003,Yuan Renminbi,corporate,healthcare improvement,current
+China,2020,Yuan Renminbi,personal,healthcare improvement,paid off
+Palestinian Territory,2002,Shekel,personal,education funding,current
+China,1997,Yuan Renminbi,personal,education funding,current
+Vietnam,1996,Dong,personal,healthcare improvement,overdue
+Portugal,2017,Euro,corporate,education funding,current
+Sweden,1995,Krona,government,infrastructure development,paid off
+Indonesia,2011,Rupiah,personal,healthcare improvement,current
+Sweden,2000,Krona,corporate,healthcare improvement,paid off
+China,2021,Yuan Renminbi,corporate,education funding,overdue
+Peru,2007,Sol,corporate,education funding,current
+Poland,2008,Zloty,corporate,infrastructure development,paid off
+Dominican Republic,2014,Peso,government,infrastructure development,overdue
+Peru,2002,Sol,personal,education funding,current
+Japan,1999,Yen,government,healthcare improvement,overdue
+France,2010,Euro,personal,healthcare improvement,current
+Cuba,2004,Peso,government,healthcare improvement,paid off
+Dominican Republic,2018,Peso,personal,infrastructure development,overdue
+Indonesia,1997,Rupiah,personal,healthcare improvement,paid off
+Argentina,2001,Peso,corporate,healthcare improvement,paid off
+China,2004,Yuan Renminbi,corporate,infrastructure development,current
+Bulgaria,2014,Lev,personal,education funding,paid off
+Poland,2005,Zloty,government,healthcare improvement,overdue
+Mongolia,1998,Tugrik,corporate,infrastructure development,current
+Indonesia,2013,Rupiah,corporate,infrastructure development,current
+China,1999,Yuan Renminbi,personal,healthcare improvement,paid off
+China,2019,Yuan Renminbi,corporate,infrastructure development,overdue
+South Korea,1998,Won,personal,infrastructure development,paid off
+Poland,2017,Zloty,corporate,infrastructure development,overdue
+Brazil,2013,Real,government,healthcare improvement,overdue
+China,2019,Yuan Renminbi,personal,infrastructure development,overdue
+Russia,2012,Ruble,personal,infrastructure development,overdue
+Russia,2006,Ruble,personal,education funding,overdue
+Japan,2010,Yen,government,education funding,paid off
+China,2002,Yuan Renminbi,personal,infrastructure development,current
+North Korea,2004,Won,corporate,infrastructure development,current
+China,2019,Yuan Renminbi,personal,education funding,current
+Poland,2019,Zloty,personal,infrastructure development,paid off
+Brazil,2010,Real,government,education funding,overdue
+Democratic Republic of the Congo,1996,Franc,corporate,education funding,current
+Swaziland,2003,Lilangeni,government,education funding,paid off
+Japan,2009,Yen,government,infrastructure development,current
+Philippines,2011,Peso,corporate,healthcare improvement,paid off
+France,2012,Euro,government,education funding,paid off
+Comoros,1996,Franc,government,education funding,current
+Spain,2011,Euro,government,healthcare improvement,paid off
+Indonesia,2014,Rupiah,government,education funding,current
+Portugal,2012,Euro,corporate,healthcare improvement,current
+Russia,2013,Ruble,government,infrastructure development,overdue
+Russia,2004,Ruble,personal,healthcare improvement,overdue
+Russia,2020,Ruble,personal,infrastructure development,paid off
+Mexico,2013,Peso,personal,healthcare improvement,paid off
+China,2017,Yuan Renminbi,government,infrastructure development,paid off
+Indonesia,2002,Rupiah,government,infrastructure development,overdue
+Indonesia,2011,Rupiah,personal,healthcare improvement,overdue
+China,2006,Yuan Renminbi,government,healthcare improvement,paid off
+Philippines,1999,Peso,personal,education funding,current
+Armenia,2007,Dram,personal,infrastructure development,paid off
+Venezuela,2020,Bolivar,personal,infrastructure development,overdue
+Brazil,2001,Real,corporate,education funding,overdue
+Brazil,2009,Real,corporate,education funding,overdue
+South Africa,2006,Rand,government,healthcare improvement,current
+Kazakhstan,1997,Tenge,personal,healthcare improvement,paid off
+Poland,2001,Zloty,government,healthcare improvement,current
+Sierra Leone,2021,Leone,government,healthcare improvement,overdue
+New Zealand,2002,Dollar,corporate,education funding,overdue
+Indonesia,2006,Rupiah,corporate,healthcare improvement,overdue
+Brazil,2004,Real,personal,healthcare improvement,paid off
+Indonesia,2001,Rupiah,corporate,infrastructure development,overdue
+Nigeria,2019,Naira,corporate,infrastructure development,paid off
+Nepal,2021,Rupee,personal,infrastructure development,overdue
+New Zealand,2012,Dollar,government,education funding,current
+Indonesia,2010,Rupiah,personal,education funding,overdue
+China,2001,Yuan Renminbi,corporate,education funding,paid off
+China,2013,Yuan Renminbi,personal,education funding,current
+Czech Republic,2001,Koruna,government,infrastructure development,paid off
+China,2003,Yuan Renminbi,personal,education funding,current
+Slovakia,2004,Euro,personal,infrastructure development,overdue
+Indonesia,1995,Rupiah,government,infrastructure development,paid off
+China,2020,Yuan Renminbi,corporate,healthcare improvement,current
+Brazil,2003,Real,personal,infrastructure development,current
+Portugal,1998,Euro,government,healthcare improvement,paid off
+Russia,2021,Ruble,personal,healthcare improvement,current
+Philippines,2012,Peso,government,healthcare improvement,overdue
+Peru,2018,Sol,personal,education funding,current
+Pakistan,2014,Rupee,government,education funding,overdue
+Norway,1999,Krone,government,infrastructure development,current
+Portugal,2011,Euro,personal,healthcare improvement,current
+France,2008,Euro,personal,infrastructure development,paid off
+Saudi Arabia,2019,Rial,corporate,education funding,paid off
+Mauritius,1999,Rupee,corporate,education funding,paid off
+Philippines,2010,Peso,personal,healthcare improvement,overdue
+Poland,2009,Zloty,government,infrastructure development,overdue
+Albania,2008,Lek,corporate,education funding,current
+China,2010,Yuan Renminbi,personal,infrastructure development,overdue
+Russia,2009,Ruble,personal,infrastructure development,current
+Portugal,2010,Euro,personal,healthcare improvement,paid off
+Sweden,2019,Krona,government,infrastructure development,paid off
+United States,2012,Dollar,government,education funding,current
+Ukraine,2020,Hryvnia,government,infrastructure development,overdue
+Indonesia,2009,Rupiah,corporate,infrastructure development,current
+Tajikistan,2021,Somoni,personal,infrastructure development,paid off
+United Kingdom,2009,Pound,government,healthcare improvement,current
+Czech Republic,2004,Koruna,corporate,healthcare improvement,paid off
+Indonesia,2014,Rupiah,personal,healthcare improvement,current
+Portugal,1995,Euro,government,education funding,paid off
+China,2003,Yuan Renminbi,corporate,healthcare improvement,overdue
+China,1995,Yuan Renminbi,government,infrastructure development,paid off
+China,1997,Yuan Renminbi,personal,healthcare improvement,paid off
+China,1996,Yuan Renminbi,government,education funding,current
+Russia,2002,Ruble,government,education funding,overdue
+Russia,2009,Ruble,personal,infrastructure development,paid off
+Yemen,2020,Rial,corporate,education funding,current
+New Zealand,2021,Dollar,corporate,education funding,current
+Russia,2010,Ruble,government,education funding,overdue
+Morocco,2012,Dirham,personal,education funding,overdue
+China,2003,Yuan Renminbi,government,healthcare improvement,overdue
+Canada,2000,Dollar,corporate,infrastructure development,overdue
+Mexico,1999,Peso,corporate,healthcare improvement,current
+China,2008,Yuan Renminbi,government,education funding,overdue
+Portugal,2020,Euro,government,infrastructure development,paid off
+Zimbabwe,1998,Dollar,personal,education funding,paid off
+China,2003,Yuan Renminbi,government,healthcare improvement,current
+Portugal,2017,Euro,government,healthcare improvement,current
+China,2010,Yuan Renminbi,government,healthcare improvement,paid off
+Indonesia,2000,Rupiah,government,infrastructure development,current
+Nigeria,2009,Naira,government,healthcare improvement,overdue
+El Salvador,2018,Dollar,government,education funding,overdue
+Indonesia,2016,Rupiah,government,healthcare improvement,overdue
+China,1999,Yuan Renminbi,corporate,infrastructure development,overdue
+Philippines,2005,Peso,corporate,education funding,overdue
+United States,2016,Dollar,personal,education funding,overdue
+Philippines,2009,Peso,corporate,infrastructure development,overdue
+China,2018,Yuan Renminbi,personal,infrastructure development,paid off
+China,2012,Yuan Renminbi,government,education funding,paid off
+United States,1996,Dollar,corporate,infrastructure development,overdue
+Poland,2006,Zloty,corporate,infrastructure development,overdue
+China,2000,Yuan Renminbi,corporate,infrastructure development,current
+France,2008,Euro,corporate,healthcare improvement,paid off
+Panama,2021,Balboa,government,healthcare improvement,current
+United States,2003,Dollar,personal,healthcare improvement,current
+Indonesia,1999,Rupiah,personal,healthcare improvement,paid off
+South Korea,2018,Won,corporate,education funding,overdue
+China,2006,Yuan Renminbi,government,healthcare improvement,paid off
+China,2014,Yuan Renminbi,personal,healthcare improvement,overdue
+Indonesia,2002,Rupiah,government,infrastructure development,paid off
+Moldova,2002,Leu,corporate,education funding,overdue
+Russia,2001,Ruble,corporate,infrastructure development,current
+Philippines,2012,Peso,personal,infrastructure development,current
+Sweden,2009,Krona,corporate,healthcare improvement,overdue
+Indonesia,1995,Rupiah,personal,healthcare improvement,paid off
+Philippines,2008,Peso,corporate,infrastructure development,paid off
+Greece,2005,Euro,government,education funding,paid off
+United States,2011,Dollar,government,infrastructure development,paid off
+Slovenia,1995,Euro,government,infrastructure development,paid off
+China,2020,Yuan Renminbi,corporate,healthcare improvement,paid off
+Russia,1997,Ruble,personal,infrastructure development,overdue
+China,2019,Yuan Renminbi,government,infrastructure development,overdue
+Russia,2005,Ruble,corporate,infrastructure development,current
+Philippines,2018,Peso,corporate,healthcare improvement,paid off
+North Korea,2015,Won,corporate,education funding,overdue
+Georgia,2005,Lari,personal,healthcare improvement,overdue
+Tunisia,2018,Dinar,personal,education funding,overdue
+China,2017,Yuan Renminbi,corporate,healthcare improvement,paid off
+Brazil,2004,Real,government,infrastructure development,paid off
+China,2001,Yuan Renminbi,personal,healthcare improvement,paid off
+Russia,2001,Ruble,corporate,healthcare improvement,paid off
+Ecuador,2013,Dollar,government,education funding,overdue
+China,2017,Yuan Renminbi,corporate,infrastructure development,paid off
+Canada,2001,Dollar,personal,infrastructure development,overdue
+Russia,2021,Ruble,corporate,education funding,paid off
+Saudi Arabia,1998,Rial,corporate,infrastructure development,overdue
+Armenia,2020,Dram,personal,healthcare improvement,overdue
+Uzbekistan,2018,Som,personal,infrastructure development,current
+Sweden,2016,Krona,personal,infrastructure development,paid off
+Peru,2006,Sol,corporate,healthcare improvement,current
+China,2001,Yuan Renminbi,personal,infrastructure development,overdue
+Sweden,2016,Krona,government,healthcare improvement,current
+Brazil,2007,Real,corporate,infrastructure development,overdue
+France,2019,Euro,government,healthcare improvement,paid off
+Bosnia and Herzegovina,2001,Marka,government,education funding,current
+China,2018,Yuan Renminbi,personal,infrastructure development,paid off
+Thailand,2013,Baht,corporate,education funding,paid off
+China,2019,Yuan Renminbi,corporate,infrastructure development,overdue
+Georgia,2017,Lari,corporate,infrastructure development,paid off
+Mexico,2008,Peso,government,education funding,paid off
+Portugal,2021,Euro,personal,education funding,paid off
+Uganda,1998,Shilling,government,infrastructure development,paid off
+Iran,2018,Rial,government,healthcare improvement,overdue
+Jordan,2012,Dinar,personal,healthcare improvement,current
+Indonesia,2012,Rupiah,personal,infrastructure development,current
+Brazil,2020,Real,government,infrastructure development,current
+Burkina Faso,2001,Franc,personal,education funding,paid off
+China,2005,Yuan Renminbi,personal,infrastructure development,overdue
+Maldives,1995,Rufiyaa,personal,education funding,overdue
+Philippines,2000,Peso,government,infrastructure development,current
+China,2014,Yuan Renminbi,personal,education funding,paid off
+Afghanistan,2007,Afghani,corporate,infrastructure development,current
+Sweden,2007,Krona,government,education funding,paid off
+Ukraine,2011,Hryvnia,government,healthcare improvement,current
+Peru,1996,Sol,government,infrastructure development,paid off
+United States,2003,Dollar,personal,infrastructure development,current
+Tanzania,2003,Shilling,government,infrastructure development,overdue
+Poland,2009,Zloty,personal,healthcare improvement,paid off
+China,2006,Yuan Renminbi,personal,education funding,overdue
+Peru,2004,Sol,government,infrastructure development,overdue
+Thailand,2020,Baht,government,education funding,paid off
+Poland,2017,Zloty,personal,infrastructure development,paid off
+Colombia,2002,Peso,corporate,healthcare improvement,paid off
+Ukraine,2015,Hryvnia,government,infrastructure development,current
+Cambodia,1999,Riels,personal,infrastructure development,current
+Russia,2010,Ruble,personal,infrastructure development,overdue
+Lithuania,2016,Litas,government,education funding,current
+Tanzania,2002,Shilling,corporate,education funding,current
+Philippines,2012,Peso,personal,healthcare improvement,paid off
+Portugal,2016,Euro,government,education funding,overdue
+Japan,2019,Yen,personal,education funding,current
+Bulgaria,2021,Lev,personal,infrastructure development,current
+Czech Republic,2011,Koruna,corporate,infrastructure development,overdue
+Philippines,1996,Peso,government,healthcare improvement,overdue
+Brazil,2009,Real,personal,healthcare improvement,overdue
+Russia,2021,Ruble,personal,education funding,overdue
+Lithuania,2020,Litas,corporate,healthcare improvement,current
+Czech Republic,1997,Koruna,government,infrastructure development,current
+Namibia,2008,Dollar,government,healthcare improvement,overdue
+China,2013,Yuan Renminbi,government,education funding,current
+Sweden,2007,Krona,government,infrastructure development,paid off
+Poland,2017,Zloty,government,infrastructure development,current
+Philippines,2015,Peso,government,education funding,overdue
+Indonesia,2000,Rupiah,personal,healthcare improvement,overdue
+Poland,2010,Zloty,personal,infrastructure development,overdue
+Sweden,2015,Krona,corporate,education funding,overdue
+Iran,1996,Rial,government,infrastructure development,paid off
+Indonesia,2016,Rupiah,corporate,infrastructure development,paid off
+Germany,1999,Euro,government,education funding,overdue
+Thailand,2014,Baht,corporate,education funding,current
+Brazil,2015,Real,government,education funding,paid off
+Argentina,2000,Peso,government,education funding,current
+Philippines,2005,Peso,personal,education funding,overdue
+Argentina,2014,Peso,corporate,infrastructure development,current
+Indonesia,2004,Rupiah,personal,healthcare improvement,overdue
+Pakistan,1995,Rupee,government,healthcare improvement,current
+Ukraine,2017,Hryvnia,corporate,healthcare improvement,overdue
+Philippines,1995,Peso,government,healthcare improvement,overdue
+United States,1995,Dollar,government,healthcare improvement,current
+China,2006,Yuan Renminbi,corporate,education funding,overdue
+China,2005,Yuan Renminbi,government,healthcare improvement,paid off
+Russia,1999,Ruble,corporate,education funding,paid off
+Kazakhstan,2005,Tenge,corporate,healthcare improvement,paid off
+China,2004,Yuan Renminbi,corporate,infrastructure development,paid off
+Poland,2000,Zloty,personal,infrastructure development,current
+Philippines,2001,Peso,personal,education funding,current
+Indonesia,1999,Rupiah,corporate,healthcare improvement,paid off
+Iran,1998,Rial,corporate,infrastructure development,paid off
+Slovenia,2001,Euro,personal,education funding,overdue
+Mongolia,2005,Tugrik,corporate,education funding,paid off
+Nepal,1995,Rupee,corporate,infrastructure development,current
+Ghana,2013,Cedi,government,infrastructure development,paid off
+Morocco,1995,Dirham,personal,infrastructure development,overdue
+China,2006,Yuan Renminbi,corporate,infrastructure development,current
+Bulgaria,2019,Lev,corporate,healthcare improvement,paid off
+Argentina,2018,Peso,government,healthcare improvement,current
+Czech Republic,1998,Koruna,personal,education funding,current
+Indonesia,1999,Rupiah,personal,infrastructure development,paid off
+China,2007,Yuan Renminbi,corporate,healthcare improvement,current
+France,2021,Euro,government,healthcare improvement,overdue
+United States,2019,Dollar,government,healthcare improvement,overdue
+Poland,1998,Zloty,personal,infrastructure development,overdue
+Canada,1995,Dollar,corporate,infrastructure development,current
+Armenia,2015,Dram,government,education funding,current
+Russia,2015,Ruble,corporate,healthcare improvement,current
+China,1995,Yuan Renminbi,personal,education funding,current
+Colombia,2016,Peso,corporate,infrastructure development,overdue
+Ukraine,2011,Hryvnia,corporate,infrastructure development,overdue
+Canada,2003,Dollar,corporate,healthcare improvement,overdue
+Palestinian Territory,2005,Shekel,corporate,education funding,current
+Portugal,1999,Euro,government,healthcare improvement,overdue
+Poland,2011,Zloty,government,infrastructure development,overdue
+Indonesia,2014,Rupiah,corporate,healthcare improvement,overdue
+Argentina,2009,Peso,government,infrastructure development,overdue
+Indonesia,2007,Rupiah,corporate,healthcare improvement,paid off
+Poland,2019,Zloty,personal,healthcare improvement,current
+Philippines,2019,Peso,corporate,healthcare improvement,paid off
+Russia,1997,Ruble,personal,education funding,current
+Croatia,1996,Kuna,government,healthcare improvement,paid off
+Japan,2008,Yen,corporate,education funding,overdue
+United States,2002,Dollar,government,education funding,current
+China,2015,Yuan Renminbi,government,infrastructure development,current
+Bangladesh,2002,Taka,personal,education funding,overdue
+Colombia,2013,Peso,government,infrastructure development,current
+Philippines,2016,Peso,corporate,education funding,overdue
+Ethiopia,2021,Birr,personal,infrastructure development,overdue
+China,1998,Yuan Renminbi,corporate,education funding,paid off
+United States,2004,Dollar,corporate,infrastructure development,paid off
+Namibia,2003,Dollar,government,infrastructure development,overdue
+United States,2004,Dollar,corporate,education funding,current
+China,2001,Yuan Renminbi,government,healthcare improvement,overdue
+Indonesia,2017,Rupiah,government,healthcare improvement,overdue
+Ghana,2010,Cedi,government,infrastructure development,current
+Czech Republic,1995,Koruna,personal,infrastructure development,paid off
+Greece,1999,Euro,government,infrastructure development,current
+Argentina,2001,Peso,government,infrastructure development,current
+Vietnam,2004,Dong,government,infrastructure development,paid off
+Indonesia,2005,Rupiah,corporate,infrastructure development,paid off
+Peru,2006,Sol,government,education funding,current
+France,2003,Euro,government,healthcare improvement,paid off
+United States,2015,Dollar,personal,healthcare improvement,current
+Indonesia,2002,Rupiah,government,healthcare improvement,current
+Indonesia,2007,Rupiah,corporate,healthcare improvement,overdue
+China,2004,Yuan Renminbi,corporate,infrastructure development,overdue
+China,1999,Yuan Renminbi,corporate,infrastructure development,overdue
+China,1996,Yuan Renminbi,government,healthcare improvement,current
+Indonesia,2012,Rupiah,corporate,infrastructure development,overdue
+Indonesia,1997,Rupiah,personal,healthcare improvement,overdue
+United Kingdom,2009,Pound,personal,healthcare improvement,overdue
+Russia,2008,Ruble,personal,infrastructure development,current
+Cameroon,2009,Franc,corporate,education funding,paid off
+Kenya,1997,Shilling,government,infrastructure development,current
+Indonesia,1995,Rupiah,personal,infrastructure development,current
+Morocco,2001,Dirham,personal,infrastructure development,paid off
+Russia,1998,Ruble,corporate,infrastructure development,overdue
+Czech Republic,2003,Koruna,personal,education funding,current
+Russia,1998,Ruble,government,education funding,overdue
+Brazil,1998,Real,corporate,healthcare improvement,current
+Gabon,1998,Franc,corporate,healthcare improvement,current
+Russia,2009,Ruble,personal,healthcare improvement,paid off
+Philippines,2003,Peso,corporate,infrastructure development,paid off
+Peru,2004,Sol,corporate,healthcare improvement,paid off
+China,1998,Yuan Renminbi,corporate,healthcare improvement,current
+Pakistan,1995,Rupee,corporate,education funding,current
+China,2012,Yuan Renminbi,government,healthcare improvement,paid off
+France,2005,Euro,personal,healthcare improvement,overdue
+China,2010,Yuan Renminbi,government,infrastructure development,current
+Montenegro,2000,Euro,government,education funding,current
+China,2010,Yuan Renminbi,government,healthcare improvement,current
+China,2019,Yuan Renminbi,corporate,healthcare improvement,overdue
+Thailand,2017,Baht,corporate,healthcare improvement,overdue
+Tanzania,1997,Shilling,corporate,education funding,current
+Cyprus,2014,Euro,government,healthcare improvement,overdue
+Poland,2004,Zloty,government,education funding,paid off
+Canada,1999,Dollar,personal,education funding,overdue
+China,2016,Yuan Renminbi,corporate,healthcare improvement,current
+Bahamas,2006,Dollar,corporate,education funding,paid off
+Poland,2021,Zloty,personal,education funding,current
+Russia,2011,Ruble,government,education funding,overdue
+China,2019,Yuan Renminbi,corporate,healthcare improvement,overdue
+Indonesia,1996,Rupiah,corporate,education funding,paid off
+Philippines,2019,Peso,personal,education funding,overdue
+China,2007,Yuan Renminbi,government,education funding,current
+Cameroon,2016,Franc,corporate,healthcare improvement,overdue
+Papua New Guinea,2006,Kina,personal,infrastructure development,current
+Philippines,1996,Peso,corporate,infrastructure development,overdue
+United States,1996,Dollar,personal,infrastructure development,overdue
+China,2020,Yuan Renminbi,government,healthcare improvement,current
+Serbia,2016,Dinar,corporate,infrastructure development,current
+Cuba,2021,Peso,government,infrastructure development,paid off
+Moldova,2014,Leu,corporate,infrastructure development,overdue
+Netherlands,2019,Euro,personal,healthcare improvement,overdue
+United States,2004,Dollar,personal,healthcare improvement,paid off
+Morocco,2005,Dirham,government,education funding,paid off
+Brazil,2002,Real,corporate,infrastructure development,current
+North Korea,2008,Won,corporate,healthcare improvement,current
+Peru,2012,Sol,government,education funding,overdue
+Italy,2007,Euro,corporate,infrastructure development,current
+Indonesia,2017,Rupiah,corporate,healthcare improvement,overdue
+China,2011,Yuan Renminbi,corporate,healthcare improvement,overdue
+China,2005,Yuan Renminbi,personal,infrastructure development,paid off
+Poland,2001,Zloty,government,infrastructure development,paid off
+Russia,2000,Ruble,corporate,infrastructure development,overdue
+China,2005,Yuan Renminbi,government,infrastructure development,overdue
+North Korea,2004,Won,government,healthcare improvement,paid off
+Japan,2008,Yen,personal,infrastructure development,paid off
+Indonesia,2006,Rupiah,corporate,infrastructure development,current
+Mauritius,1995,Rupee,corporate,education funding,current
+Mexico,2001,Peso,corporate,healthcare improvement,paid off
+China,2019,Yuan Renminbi,government,infrastructure development,overdue
+China,1997,Yuan Renminbi,government,healthcare improvement,overdue
+China,1998,Yuan Renminbi,personal,education funding,current
+Argentina,2008,Peso,corporate,infrastructure development,paid off
+Portugal,2012,Euro,corporate,education funding,overdue
+Indonesia,2007,Rupiah,government,healthcare improvement,paid off
+South Africa,1995,Rand,corporate,healthcare improvement,paid off
+Philippines,2021,Peso,corporate,education funding,paid off
+Peru,2009,Sol,government,education funding,overdue
+France,2005,Euro,personal,healthcare improvement,paid off
+China,2007,Yuan Renminbi,corporate,healthcare improvement,current
+Ukraine,2007,Hryvnia,government,education funding,paid off
+Indonesia,2000,Rupiah,government,infrastructure development,current
+China,2013,Yuan Renminbi,personal,healthcare improvement,current
+France,2019,Euro,corporate,healthcare improvement,overdue
+Iceland,1999,Krona,personal,healthcare improvement,overdue
+Indonesia,2009,Rupiah,corporate,healthcare improvement,current
+Honduras,1996,Lempira,government,healthcare improvement,current
+Portugal,2000,Euro,corporate,education funding,overdue
+Thailand,2008,Baht,corporate,education funding,paid off
+China,2018,Yuan Renminbi,corporate,infrastructure development,overdue
+Philippines,2020,Peso,corporate,infrastructure development,paid off
+China,1995,Yuan Renminbi,corporate,education funding,paid off
+North Korea,2010,Won,personal,education funding,overdue
+Portugal,2000,Euro,corporate,healthcare improvement,paid off
+Armenia,2011,Dram,government,education funding,current
+Poland,2009,Zloty,government,healthcare improvement,overdue
+Indonesia,2013,Rupiah,government,healthcare improvement,overdue
+China,2018,Yuan Renminbi,corporate,education funding,current
+China,2010,Yuan Renminbi,government,education funding,paid off
+Portugal,2006,Euro,government,education funding,overdue
+Russia,2018,Ruble,government,healthcare improvement,paid off
+United States,2009,Dollar,government,education funding,overdue
+Panama,2016,Balboa,corporate,healthcare improvement,paid off
+Indonesia,2002,Rupiah,government,healthcare improvement,current
+Indonesia,2015,Rupiah,personal,infrastructure development,overdue
+North Korea,1997,Won,personal,education funding,current
+Brazil,2010,Real,corporate,infrastructure development,overdue
+Philippines,2021,Peso,corporate,healthcare improvement,paid off
+Philippines,2008,Peso,corporate,healthcare improvement,current
+Brazil,2010,Real,personal,healthcare improvement,paid off
+Panama,2000,Balboa,corporate,education funding,overdue
+Indonesia,2005,Rupiah,personal,infrastructure development,paid off
+China,2004,Yuan Renminbi,personal,healthcare improvement,overdue
+Albania,2015,Lek,personal,education funding,overdue
+China,2021,Yuan Renminbi,personal,infrastructure development,current
+Indonesia,2009,Rupiah,personal,infrastructure development,overdue
+Colombia,2017,Peso,government,education funding,overdue
+Mongolia,2005,Tugrik,government,healthcare improvement,paid off
+Laos,2010,Kip,personal,infrastructure development,overdue
+Indonesia,2013,Rupiah,corporate,healthcare improvement,current
+Philippines,2012,Peso,government,healthcare improvement,current
+China,1995,Yuan Renminbi,government,education funding,paid off
+Argentina,2015,Peso,government,infrastructure development,overdue
+United States,2019,Dollar,government,healthcare improvement,overdue
+China,2011,Yuan Renminbi,personal,infrastructure development,overdue
+China,1995,Yuan Renminbi,government,education funding,overdue
+Philippines,2014,Peso,government,healthcare improvement,paid off
+United States,2001,Dollar,corporate,education funding,current
+Hungary,2020,Forint,government,healthcare improvement,overdue
+South Korea,1995,Won,personal,education funding,overdue
+France,2013,Euro,personal,education funding,overdue
+China,2021,Yuan Renminbi,corporate,healthcare improvement,overdue
+Argentina,2013,Peso,government,healthcare improvement,current
+Belarus,2009,Ruble,government,healthcare improvement,overdue
+China,2020,Yuan Renminbi,government,infrastructure development,overdue
+France,2019,Euro,personal,infrastructure development,current
+China,2019,Yuan Renminbi,personal,education funding,overdue
+China,1998,Yuan Renminbi,corporate,infrastructure development,current
+Indonesia,2017,Rupiah,personal,infrastructure development,overdue
+Indonesia,1998,Rupiah,government,infrastructure development,current
+Indonesia,2015,Rupiah,government,healthcare improvement,current
+Indonesia,2002,Rupiah,government,infrastructure development,paid off
+Nepal,1995,Rupee,personal,healthcare improvement,overdue
+Indonesia,1997,Rupiah,personal,education funding,paid off
+Portugal,1995,Euro,corporate,education funding,paid off
+Peru,2011,Sol,government,education funding,current
+Indonesia,2007,Rupiah,personal,education funding,overdue
+China,2011,Yuan Renminbi,corporate,infrastructure development,overdue
+Poland,2004,Zloty,corporate,education funding,paid off
+Czech Republic,2005,Koruna,corporate,infrastructure development,overdue
+Palestinian Territory,2015,Shekel,government,infrastructure development,paid off
+China,2013,Yuan Renminbi,corporate,education funding,paid off
+Canada,2016,Dollar,corporate,healthcare improvement,current
+China,2020,Yuan Renminbi,personal,healthcare improvement,current
+Gambia,2011,Dalasi,corporate,healthcare improvement,overdue
+Greece,2001,Euro,corporate,education funding,current
+Russia,2019,Ruble,government,healthcare improvement,overdue
+Australia,2011,Dollar,personal,education funding,paid off
+Ecuador,1999,Dollar,personal,education funding,paid off
+Venezuela,1997,Bolivar,government,education funding,paid off
+China,2014,Yuan Renminbi,personal,infrastructure development,current
+Russia,2006,Ruble,corporate,infrastructure development,overdue
+Greece,2007,Euro,personal,education funding,current
+Philippines,2018,Peso,government,education funding,paid off
+Japan,2006,Yen,corporate,healthcare improvement,current
+China,2001,Yuan Renminbi,corporate,education funding,current
+Indonesia,2020,Rupiah,corporate,healthcare improvement,overdue
+China,2007,Yuan Renminbi,government,infrastructure development,paid off
+Portugal,2014,Euro,government,education funding,current
+Madagascar,2006,Ariary,government,infrastructure development,overdue
+Greece,2015,Euro,corporate,infrastructure development,current
+Serbia,2006,Dinar,corporate,healthcare improvement,paid off
+Indonesia,2020,Rupiah,personal,infrastructure development,overdue
+United States,2012,Dollar,corporate,healthcare improvement,overdue
+Thailand,2006,Baht,government,healthcare improvement,overdue
+China,2010,Yuan Renminbi,corporate,infrastructure development,overdue
+Bolivia,2018,Boliviano,personal,healthcare improvement,current
+China,2011,Yuan Renminbi,corporate,education funding,paid off
+Costa Rica,1999,Colon,personal,education funding,paid off
+Peru,2021,Sol,personal,healthcare improvement,current
+Egypt,1996,Pound,personal,healthcare improvement,overdue
+Russia,1998,Ruble,personal,healthcare improvement,paid off
+China,2000,Yuan Renminbi,government,infrastructure development,current
+Brazil,2012,Real,corporate,infrastructure development,paid off
+Bulgaria,2002,Lev,personal,education funding,paid off
+Peru,1999,Sol,government,education funding,current
+Philippines,2011,Peso,personal,education funding,current
+Mongolia,1995,Tugrik,personal,education funding,paid off
+United States,2003,Dollar,personal,healthcare improvement,current
+China,2004,Yuan Renminbi,corporate,healthcare improvement,current
+Mexico,2014,Peso,corporate,infrastructure development,overdue
+Japan,2008,Yen,corporate,infrastructure development,overdue
+United States,2014,Dollar,personal,infrastructure development,overdue
+Japan,2009,Yen,government,healthcare improvement,paid off
+China,2021,Yuan Renminbi,government,healthcare improvement,overdue
+Poland,1997,Zloty,corporate,healthcare improvement,overdue
+Russia,2014,Ruble,government,infrastructure development,current
+Portugal,2003,Euro,government,healthcare improvement,overdue
+Honduras,2004,Lempira,personal,education funding,current
+Moldova,2021,Leu,personal,education funding,paid off
+China,2007,Yuan Renminbi,personal,healthcare improvement,current
+Portugal,2004,Euro,government,infrastructure development,overdue
+China,2000,Yuan Renminbi,government,education funding,current
+Brazil,2019,Real,corporate,infrastructure development,overdue
+Armenia,1997,Dram,personal,healthcare improvement,current
+Brazil,2007,Real,government,infrastructure development,current
+Philippines,2015,Peso,corporate,healthcare improvement,overdue
+Iran,2013,Rial,government,education funding,paid off
+Philippines,1997,Peso,personal,healthcare improvement,overdue
+China,2006,Yuan Renminbi,government,education funding,current
+Croatia,1999,Kuna,personal,education funding,current
+Portugal,2021,Euro,corporate,education funding,current
+Russia,2013,Ruble,corporate,infrastructure development,current
+Poland,2014,Zloty,government,infrastructure development,overdue
+South Korea,2014,Won,personal,healthcare improvement,overdue
+Spain,2009,Euro,personal,education funding,current
+China,2008,Yuan Renminbi,government,education funding,paid off
+Sweden,2001,Krona,corporate,infrastructure development,paid off
+Tanzania,1997,Shilling,corporate,healthcare improvement,overdue
+Portugal,1998,Euro,corporate,infrastructure development,paid off
+China,2017,Yuan Renminbi,corporate,education funding,current
+United States,1997,Dollar,government,healthcare improvement,current
+France,1999,Euro,government,infrastructure development,current
+United States,2013,Dollar,personal,healthcare improvement,paid off
+China,1998,Yuan Renminbi,corporate,education funding,overdue
+China,1997,Yuan Renminbi,government,infrastructure development,current
+Sweden,2019,Krona,corporate,education funding,current
+Sweden,1996,Krona,personal,healthcare improvement,current
+China,2001,Yuan Renminbi,personal,education funding,current
+Latvia,2015,Euro,government,healthcare improvement,current
+China,2000,Yuan Renminbi,corporate,healthcare improvement,paid off
+Peru,2015,Sol,government,education funding,overdue
+Philippines,2000,Peso,government,education funding,paid off
+Croatia,2011,Kuna,corporate,infrastructure development,paid off
+China,2021,Yuan Renminbi,personal,healthcare improvement,current
+Mexico,2003,Peso,corporate,education funding,current
+North Korea,2015,Won,personal,infrastructure development,current
+Vietnam,2002,Dong,corporate,healthcare improvement,current
+Portugal,2018,Euro,corporate,infrastructure development,paid off
+Dominican Republic,2012,Peso,corporate,healthcare improvement,overdue
+Portugal,2007,Euro,government,healthcare improvement,paid off
+Japan,2014,Yen,personal,education funding,current
+Russia,2018,Ruble,personal,healthcare improvement,current
+France,2014,Euro,government,infrastructure development,paid off
+Argentina,2015,Peso,government,infrastructure development,overdue
+France,2000,Euro,corporate,healthcare improvement,paid off
+Ivory Coast,2017,Franc,government,healthcare improvement,overdue
+Greece,2016,Euro,personal,infrastructure development,paid off
+Iran,2017,Rial,personal,education funding,overdue
+Mexico,2011,Peso,corporate,healthcare improvement,current
+Indonesia,2015,Rupiah,personal,healthcare improvement,current
+Ukraine,2015,Hryvnia,personal,infrastructure development,overdue
+Argentina,2021,Peso,corporate,education funding,overdue
+Nigeria,2017,Naira,corporate,healthcare improvement,overdue
+Democratic Republic of the Congo,2006,Franc,personal,education funding,paid off
+Austria,2004,Euro,corporate,infrastructure development,paid off
+Argentina,1995,Peso,government,healthcare improvement,overdue
+Indonesia,2016,Rupiah,personal,education funding,current
+Indonesia,1996,Rupiah,corporate,infrastructure development,current
+Portugal,2000,Euro,personal,infrastructure development,current
+Bulgaria,2003,Lev,personal,education funding,paid off
+Portugal,2004,Euro,corporate,education funding,overdue
+China,2004,Yuan Renminbi,personal,healthcare improvement,paid off
+Indonesia,2003,Rupiah,corporate,education funding,overdue
+Honduras,2007,Lempira,personal,education funding,paid off
+Ghana,2003,Cedi,government,healthcare improvement,overdue
+China,2017,Yuan Renminbi,corporate,infrastructure development,overdue
+Peru,2015,Sol,corporate,infrastructure development,current
+Japan,2005,Yen,personal,education funding,current
+Portugal,2006,Euro,corporate,education funding,current
+South Africa,2017,Rand,corporate,education funding,overdue
+Armenia,2005,Dram,personal,education funding,overdue
+Portugal,2010,Euro,corporate,healthcare improvement,overdue
+France,2005,Euro,personal,infrastructure development,overdue
+Philippines,2000,Peso,government,education funding,paid off
+Indonesia,2018,Rupiah,government,healthcare improvement,paid off
+Pakistan,1996,Rupee,corporate,infrastructure development,paid off
+Indonesia,1997,Rupiah,corporate,infrastructure development,current
+China,2010,Yuan Renminbi,personal,education funding,paid off
+Peru,2001,Sol,personal,healthcare improvement,current
