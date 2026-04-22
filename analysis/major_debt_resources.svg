@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<style>
+.title { font: bold 20px sans-serif; fill: #1f2937; }
+.label { font: 12px sans-serif; fill: #374151; }
+.small { font: 11px sans-serif; fill: #6b7280; }
+.axis { stroke: #9ca3af; stroke-width: 1; }
+.grid { stroke: #e5e7eb; stroke-width: 1; }
+</style>
+<text x="30" y="35" class="title">Major Debt Resources (Currency Labels) in Dataset</text>
+<text x="30" y="58" class="small">Most frequent debt_amount labels observed across all records.</text>
+<line x1="280" y1="90" x2="280" y2="600" class="axis" />
+<rect x="280" y="97.65" width="770.00" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="116.69" text-anchor="end" class="label">Yuan Renminbi</text>
+<text x="1058.00" y="116.69" class="label">190</text>
+<rect x="280" y="140.15" width="445.79" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="159.19" text-anchor="end" class="label">Euro</text>
+<text x="733.79" y="159.19" class="label">110</text>
+<rect x="280" y="182.65" width="433.63" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="201.69" text-anchor="end" class="label">Rupiah</text>
+<text x="721.63" y="201.69" class="label">107</text>
+<rect x="280" y="225.15" width="401.21" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="244.19" text-anchor="end" class="label">Peso</text>
+<text x="689.21" y="244.19" class="label">99</text>
+<rect x="280" y="267.65" width="243.16" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="286.69" text-anchor="end" class="label">Dollar</text>
+<text x="531.16" y="286.69" class="label">60</text>
+<rect x="280" y="310.15" width="222.89" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="329.19" text-anchor="end" class="label">Ruble</text>
+<text x="510.89" y="329.19" class="label">55</text>
+<rect x="280" y="352.65" width="158.05" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="371.69" text-anchor="end" class="label">Zloty</text>
+<text x="446.05" y="371.69" class="label">39</text>
+<rect x="280" y="395.15" width="154.00" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="414.19" text-anchor="end" class="label">Real</text>
+<text x="442.00" y="414.19" class="label">38</text>
+<rect x="280" y="437.65" width="93.21" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="456.69" text-anchor="end" class="label">Yen</text>
+<text x="381.21" y="456.69" class="label">23</text>
+<rect x="280" y="480.15" width="85.11" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="499.19" text-anchor="end" class="label">Krona</text>
+<text x="373.11" y="499.19" class="label">21</text>
+<rect x="280" y="522.65" width="77.00" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="541.69" text-anchor="end" class="label">Franc</text>
+<text x="365.00" y="541.69" class="label">19</text>
+<rect x="280" y="565.15" width="72.95" height="27.20" fill="#7c3aed" rx="3" />
+<text x="270" y="584.19" text-anchor="end" class="label">Sol</text>
+<text x="360.95" y="584.19" class="label">18</text>
+<line x1="280.00" y1="90" x2="280.00" y2="600" class="grid" />
+<text x="280.00" y="630" text-anchor="middle" class="small">0</text>
+<line x1="434.00" y1="90" x2="434.00" y2="600" class="grid" />
+<text x="434.00" y="630" text-anchor="middle" class="small">38</text>
+<line x1="588.00" y1="90" x2="588.00" y2="600" class="grid" />
+<text x="588.00" y="630" text-anchor="middle" class="small">76</text>
+<line x1="742.00" y1="90" x2="742.00" y2="600" class="grid" />
+<text x="742.00" y="630" text-anchor="middle" class="small">114</text>
+<line x1="896.00" y1="90" x2="896.00" y2="600" class="grid" />
+<text x="896.00" y="630" text-anchor="middle" class="small">152</text>
+<line x1="1050.00" y1="90" x2="1050.00" y2="600" class="grid" />
+<text x="1050.00" y="630" text-anchor="middle" class="small">190</text>
+</svg>

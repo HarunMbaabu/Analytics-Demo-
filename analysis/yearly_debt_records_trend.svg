@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<style>
+.title { font: bold 20px sans-serif; fill: #1f2937; }
+.label { font: 12px sans-serif; fill: #374151; }
+.small { font: 11px sans-serif; fill: #6b7280; }
+.axis { stroke: #9ca3af; stroke-width: 1; }
+.grid { stroke: #e5e7eb; stroke-width: 1; }
+</style>
+<text x="30" y="35" class="title">Debt Records Over Time (1995-2021)</text>
+<text x="30" y="58" class="small">Annual frequency of debt records across all countries.</text>
+<line x1="70" y1="560" x2="1170" y2="560" class="axis" />
+<line x1="70" y1="80" x2="70" y2="560" class="axis" />
+<line x1="70" y1="560.00" x2="1170" y2="560.00" class="grid" />
+<text x="60" y="564.00" text-anchor="end" class="small">30</text>
+<line x1="70" y1="464.00" x2="1170" y2="464.00" class="grid" />
+<text x="60" y="468.00" text-anchor="end" class="small">33</text>
+<line x1="70" y1="368.00" x2="1170" y2="368.00" class="grid" />
+<text x="60" y="372.00" text-anchor="end" class="small">36</text>
+<line x1="70" y1="272.00" x2="1170" y2="272.00" class="grid" />
+<text x="60" y="276.00" text-anchor="end" class="small">40</text>
+<line x1="70" y1="176.00" x2="1170" y2="176.00" class="grid" />
+<text x="60" y="180.00" text-anchor="end" class="small">43</text>
+<line x1="70" y1="80.00" x2="1170" y2="80.00" class="grid" />
+<text x="60" y="84.00" text-anchor="end" class="small">46</text>
+<polyline fill="none" stroke="#059669" stroke-width="3" points="70.00,80.00 112.31,440.00 154.62,290.00 196.92,410.00 239.23,470.00 281.54,230.00 323.85,200.00 366.15,440.00 408.46,320.00 450.77,260.00 493.08,260.00 535.38,230.00 577.69,470.00 620.00,560.00 662.31,530.00 704.62,320.00 746.92,530.00 789.23,530.00 831.54,410.00 873.85,410.00 916.15,290.00 958.46,530.00 1000.77,380.00 1043.08,230.00 1085.38,200.00 1127.69,110.00 1170.00,290.00" />
+<circle cx="70.00" cy="80.00" r="3" fill="#059669" />
+<text x="70.00" y="580" text-anchor="middle" class="small">1995</text>
+<circle cx="112.31" cy="440.00" r="3" fill="#059669" />
+<circle cx="154.62" cy="290.00" r="3" fill="#059669" />
+<text x="154.62" y="580" text-anchor="middle" class="small">1997</text>
+<circle cx="196.92" cy="410.00" r="3" fill="#059669" />
+<circle cx="239.23" cy="470.00" r="3" fill="#059669" />
+<text x="239.23" y="580" text-anchor="middle" class="small">1999</text>
+<circle cx="281.54" cy="230.00" r="3" fill="#059669" />
+<circle cx="323.85" cy="200.00" r="3" fill="#059669" />
+<text x="323.85" y="580" text-anchor="middle" class="small">2001</text>
+<circle cx="366.15" cy="440.00" r="3" fill="#059669" />
+<circle cx="408.46" cy="320.00" r="3" fill="#059669" />
+<text x="408.46" y="580" text-anchor="middle" class="small">2003</text>
+<circle cx="450.77" cy="260.00" r="3" fill="#059669" />
+<circle cx="493.08" cy="260.00" r="3" fill="#059669" />
+<text x="493.08" y="580" text-anchor="middle" class="small">2005</text>
+<circle cx="535.38" cy="230.00" r="3" fill="#059669" />
+<circle cx="577.69" cy="470.00" r="3" fill="#059669" />
+<text x="577.69" y="580" text-anchor="middle" class="small">2007</text>
+<circle cx="620.00" cy="560.00" r="3" fill="#059669" />
+<circle cx="662.31" cy="530.00" r="3" fill="#059669" />
+<text x="662.31" y="580" text-anchor="middle" class="small">2009</text>
+<circle cx="704.62" cy="320.00" r="3" fill="#059669" />
+<circle cx="746.92" cy="530.00" r="3" fill="#059669" />
+<text x="746.92" y="580" text-anchor="middle" class="small">2011</text>
+<circle cx="789.23" cy="530.00" r="3" fill="#059669" />
+<circle cx="831.54" cy="410.00" r="3" fill="#059669" />
+<text x="831.54" y="580" text-anchor="middle" class="small">2013</text>
+<circle cx="873.85" cy="410.00" r="3" fill="#059669" />
+<circle cx="916.15" cy="290.00" r="3" fill="#059669" />
+<text x="916.15" y="580" text-anchor="middle" class="small">2015</text>
+<circle cx="958.46" cy="530.00" r="3" fill="#059669" />
+<circle cx="1000.77" cy="380.00" r="3" fill="#059669" />
+<text x="1000.77" y="580" text-anchor="middle" class="small">2017</text>
+<circle cx="1043.08" cy="230.00" r="3" fill="#059669" />
+<circle cx="1085.38" cy="200.00" r="3" fill="#059669" />
+<text x="1085.38" y="580" text-anchor="middle" class="small">2019</text>
+<circle cx="1127.69" cy="110.00" r="3" fill="#059669" />
+<circle cx="1170.00" cy="290.00" r="3" fill="#059669" />
+<text x="1170.00" y="580" text-anchor="middle" class="small">2021</text>
+</svg>

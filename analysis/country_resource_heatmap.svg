@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<style>
+.title { font: bold 20px sans-serif; fill: #1f2937; }
+.label { font: 12px sans-serif; fill: #374151; }
+.small { font: 11px sans-serif; fill: #6b7280; }
+.axis { stroke: #9ca3af; stroke-width: 1; }
+.grid { stroke: #e5e7eb; stroke-width: 1; }
+</style>
+<text x="30" y="35" class="title">Country vs. Debt Resource Concentration</text>
+<text x="30" y="58" class="small">Top 10 countries crossed with top 8 debt resource labels (counts).</text>
+<text x="220" y="133.80" text-anchor="end" class="small">China</text>
+<rect x="230.00" y="100.00" width="115.00" height="52.00" fill="rgb(49,126,75)" stroke="#e5e7eb" />
+<text x="287.50" y="131.20" text-anchor="middle" class="small">190</text>
+<rect x="345.00" y="100.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="100.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="100.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="100.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="100.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="100.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="100.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="185.80" text-anchor="end" class="small">Indonesia</text>
+<rect x="230.00" y="152.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="152.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="152.00" width="115.00" height="52.00" fill="rgb(132,178,153)" stroke="#e5e7eb" />
+<text x="517.50" y="183.20" text-anchor="middle" class="small">107</text>
+<rect x="575.00" y="152.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="152.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="152.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="152.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="152.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="237.80" text-anchor="end" class="small">Philippines</text>
+<rect x="230.00" y="204.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="204.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="204.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="204.00" width="115.00" height="52.00" fill="rgb(185,211,203)" stroke="#e5e7eb" />
+<text x="632.50" y="235.20" text-anchor="middle" class="small">54</text>
+<rect x="690.00" y="204.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="204.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="204.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="204.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="289.80" text-anchor="end" class="small">Russia</text>
+<rect x="230.00" y="256.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="256.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="256.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="256.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="256.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="256.00" width="115.00" height="52.00" fill="rgb(188,213,206)" stroke="#e5e7eb" />
+<text x="862.50" y="287.20" text-anchor="middle" class="small">51</text>
+<rect x="920.00" y="256.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="256.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="341.80" text-anchor="end" class="small">Portugal</text>
+<rect x="230.00" y="308.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="308.00" width="115.00" height="52.00" fill="rgb(192,216,210)" stroke="#e5e7eb" />
+<text x="402.50" y="339.20" text-anchor="middle" class="small">47</text>
+<rect x="460.00" y="308.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="308.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="308.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="308.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="308.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="308.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="393.80" text-anchor="end" class="small">Poland</text>
+<rect x="230.00" y="360.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="360.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="360.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="360.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="360.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="360.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="360.00" width="115.00" height="52.00" fill="rgb(200,221,218)" stroke="#e5e7eb" />
+<text x="977.50" y="391.20" text-anchor="middle" class="small">39</text>
+<rect x="1035.00" y="360.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="445.80" text-anchor="end" class="small">Brazil</text>
+<rect x="230.00" y="412.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="412.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="412.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="412.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="412.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="412.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="412.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="412.00" width="115.00" height="52.00" fill="rgb(201,222,219)" stroke="#e5e7eb" />
+<text x="1092.50" y="443.20" text-anchor="middle" class="small">38</text>
+<text x="220" y="497.80" text-anchor="end" class="small">United States</text>
+<rect x="230.00" y="464.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="464.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="464.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="464.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="464.00" width="115.00" height="52.00" fill="rgb(207,225,224)" stroke="#e5e7eb" />
+<text x="747.50" y="495.20" text-anchor="middle" class="small">32</text>
+<rect x="805.00" y="464.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="464.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="464.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="549.80" text-anchor="end" class="small">France</text>
+<rect x="230.00" y="516.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="516.00" width="115.00" height="52.00" fill="rgb(215,230,232)" stroke="#e5e7eb" />
+<text x="402.50" y="547.20" text-anchor="middle" class="small">24</text>
+<rect x="460.00" y="516.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="516.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="516.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="516.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="516.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="516.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="220" y="601.80" text-anchor="end" class="small">Japan</text>
+<rect x="230.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="345.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="460.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="575.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="690.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="805.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="920.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<rect x="1035.00" y="568.00" width="115.00" height="52.00" fill="rgb(239,246,255)" stroke="#e5e7eb" />
+<text x="287.50" y="88" text-anchor="middle" class="small">Yuan Renminbi</text>
+<text x="402.50" y="88" text-anchor="middle" class="small">Euro</text>
+<text x="517.50" y="88" text-anchor="middle" class="small">Rupiah</text>
+<text x="632.50" y="88" text-anchor="middle" class="small">Peso</text>
+<text x="747.50" y="88" text-anchor="middle" class="small">Dollar</text>
+<text x="862.50" y="88" text-anchor="middle" class="small">Ruble</text>
+<text x="977.50" y="88" text-anchor="middle" class="small">Zloty</text>
+<text x="1092.50" y="88" text-anchor="middle" class="small">Real</text>
+</svg>
